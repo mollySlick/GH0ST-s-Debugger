@@ -1,0 +1,4 @@
+#!/bin/bash
+# Runs program and gets return value
+$1
+echo $?
